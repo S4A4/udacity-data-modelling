@@ -10,11 +10,11 @@ In this project, I have to model data with Postgres and build and ETL pipeline u
 
 Schema for Song Play Analysis
 
-Fact Table
+### Fact Table
 
 songplays - records in log data associated with song plays i.e. records with page NextSong
 
-Dimension Tables
+### Dimension Tables
 
 users in the app
 
